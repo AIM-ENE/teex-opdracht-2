@@ -118,7 +118,10 @@ Of met Docker Compose:
 
 Run de front-end:
 
-`npm run start`
+`npm install`
+
+`npm run dev`
 
 Of met Docker Compose:
+
 `docker compose up frontend`
